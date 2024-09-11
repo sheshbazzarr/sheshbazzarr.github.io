@@ -486,7 +486,18 @@ article .icon {
 .contact-icon {
   cursor: default;
 }
+.contact-info-container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1rem;
+}
+.contact-icon2{
+  cursor: default;
+  border-radius: 80%;
 
+}
 .email-icon {
   height: 2.5rem;
 }
